@@ -1,4 +1,4 @@
-# Angular Tour of Heroes
+# AngularDart Tour of Heroes
 
 본 저장소는 앵귤러다트 공식 홈페이지에서 제공하는 [Tutorial](https://webdev.dartlang.org/angular/tutorial)을 따라하는 저장소입니다.
 
