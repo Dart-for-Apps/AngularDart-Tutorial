@@ -115,6 +115,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -136,6 +139,7 @@
     <option name="width" value="1077" />
     <option name="height" value="1200" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -216,18 +220,17 @@
       <updated>1545283089558</updated>
       <workItem from="1545283091750" duration="271000" />
       <workItem from="1545283378535" duration="3713000" />
-      <workItem from="1545403007644" duration="2469000" />
+      <workItem from="1545403007644" duration="2744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6453000" />
+    <option name="totallyTimeSpent" value="6728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="843" y="0" width="1077" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20454545" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20454545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -239,10 +242,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32944345" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32944345" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32944345" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Dart Dev Server" order="12" visible="true" weight="0.32944345" />
+      <window_info anchor="bottom" id="Dart Dev Server" order="12" weight="0.32944345" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.2639138" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
