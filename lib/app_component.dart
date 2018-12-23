@@ -1,6 +1,5 @@
 import 'package:angular/angular.dart';
 import 'src/hero.dart';
-import 'src/mock_heroes.dart';
 import 'src/hero_component.dart';
 import 'src/hero_service.dart';
 
